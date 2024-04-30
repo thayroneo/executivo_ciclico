@@ -1,0 +1,33 @@
+[
+    {
+        "tarefa":"Tarefa 1",
+        "id":0,
+        "prioridade":1,
+        "periodo":8,
+        "tempo_execut":2
+    },
+
+    {
+        "tarefa":"Tarefa 2",
+        "id":1,
+        "prioridade":2,
+        "periodo":16,
+        "tempo_execut":8
+    },
+
+    {
+        "tarefa":"Tarefa 3",
+        "id":2,
+        "prioridade":3,
+        "periodo":24,
+        "tempo_execut":4
+    },
+
+    {
+        "tarefa":"Tarefa 4",
+        "id":3,
+        "prioridade":4,
+        "periodo":48,
+        "tempo_execut":4
+    }
+]
