@@ -102,7 +102,7 @@ def taxa_ultiliza():
 
 Esse tipo de escalonamento implica na existência de dois “ciclos”, um menor, onde as tarefas são alocadas com prioridade no menor período, e, uma maior, que vai se repetir ao longo do tempo.
 
-![Diagramação do Executivo](src/img/diagrama.png)
+![Diagramação do Executivo](data/img/diagrama.png)
 
 O cálculo do ciclo maior é mais simples, já que é apenas o Mínimo Múltiplo Comum (MMC) entre os períodos.
 
